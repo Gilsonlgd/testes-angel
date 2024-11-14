@@ -1,0 +1,10 @@
+{
+  "staticAttributes": {
+    "extension": {
+      "defaultValue": "tsx"
+    },
+    "subDir": {
+      "defaultValue": true
+    }
+  }
+}
